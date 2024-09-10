@@ -6,7 +6,7 @@ A base está em Creative Commons, o que significa que você é livre para:
       
       Sob os seguintes termos:
 
-      1) **Atribuição** — **Você deve dar o devido crédito**, **fornecer um link** para a licença e **indicar se foram feitas alterações**. 
+      1) **Atribuição — Você deve dar o devido crédito**, **fornecer um link** para a licença e **indicar se foram feitas alterações**. 
       Você pode fazer isso de qualquer maneira razoável, mas **não de forma que sugira que o licenciante endossa você ou o uso que você faz**. 
       2) **Sem restrições adicionais** — Você não pode aplicar termos legais ou medidas tecnológicas **que restrinjam legalmente outras pessoas de fazer qualquer coisa que a licença permita**.
 
@@ -21,6 +21,6 @@ The database is under Creative Commons, which means you are free to:
 
 Under the following terms:
 
-    1) **Attribution** — **You must give appropriate credit**, **provide a link** to the license, and **indicate if changes were made**.
-You may do so in any reasonable manner, but **not in any way that suggests the licensor endorses you or your use**.
-    2) **No additional restrictions** — You may not apply legal terms or technological measures **that legally restrict others from doing anything the license permits**.
+      1) **Attribution — **You must give appropriate credit**, **provide a link** to the license, and **indicate if changes were made**.
+      You may do so in any reasonable manner, but **not in any way that suggests the licensor endorses you or your use**.
+      2) **No additional restrictions** — You may not apply legal terms or technological measures **that legally restrict others from doing anything the license permits**.
